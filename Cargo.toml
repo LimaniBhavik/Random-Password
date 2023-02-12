@@ -7,7 +7,7 @@ license = "MIT"
 description = "A Simple Random Number Password"
 homepage = "https://github.com/LimaniBhavik/Random-Password"
 repository = "https://github.com/LimaniBhavik/Random-Password"
-keywords = ["password", "random/number", "number"]
+keywords = ["password", "generate", "number"]
 categories = ["command-line-utilities"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
